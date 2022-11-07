@@ -22,4 +22,4 @@ Follow {AnonymousFxz}
 
 
 
-<a href="https://github.com/AnonymousFxz" target="_blank"><img src="https://avatars.githubusercontent.com/u/117674270?s=96&v=4" alt="HEHE"></a>
+<a href="https://github.com/AnonymousFxz" target="_blank"><img src="https://avatars.githubusercontent.com/u/117674270?v=4" alt="HEHE"></a>
