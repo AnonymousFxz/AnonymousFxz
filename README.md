@@ -22,4 +22,4 @@ Follow {AnonymousFxz}
 
 
 
-<a href="https://github.com/AnonymousFxz" target="_blank"><img src="https://im4.ezgif.com/tmp/ezgif-4-b021b142e2.gif" alt="snake"></a>
+<a href="https://github.com/AnonymousFxz" target="_blank"><img src="https://avatars.githubusercontent.com/u/117674270?s=96&v=4" alt="HEHE"></a>
