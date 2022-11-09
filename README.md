@@ -1,11 +1,9 @@
 <p align="center"><img src="https://gpvc.arturio.dev/AnonymousFxz" alt="Visitors"></a>
-<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=4287f5&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/AnonymousFxz" alt="Profile Stars"></a>
-<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=bb2527&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/AnonymousFxz" alt="Profile Forks"></a>
 
 
 
 
-<img src="https://img.shields.io/badge/Coding-200%25-03fc6f" alt="HEHE"></a>
+<p align="center"><img src="https://img.shields.io/badge/Coding-200%25-03fc6f" alt="HEHE"></a>
 
 
 
@@ -33,4 +31,4 @@ Follow {AnonymousFxz}
 
 
 
-<a href="https://github.com/AnonymousFxz" target="_blank"><img src="https://avatars.githubusercontent.com/u/117674270?v=4" alt="HEHE"></a>
+<p align="center"><a href="https://github.com/AnonymousFxz" target="_blank"><img src="https://avatars.githubusercontent.com/u/117674270?v=4" alt="HEHE"></a>
